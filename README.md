@@ -23,4 +23,4 @@ $$z(x) = \text{ch}(1 +\sqrt{1 +x}) \cos\sqrt{1 +x−x2}, \quad \quad x \in (0.1,
 $$\int_{a}^{b} \dfrac{f(x)}{(x-a)^{\alpha}\cdot(x-b)^{\beta}}$$
 - где $f(x) = $
 $$0.5 \cos(2x) \exp(2x/5) + 2.4 \sin(1.5x) \exp(−6x) + 6x$$
-- $ a = 1.1, b = 2.5, \alpha = 0, \beta = \frac{2}{5}$
+- $a = 1.1, b = 2.5, \alpha = 0, \beta = \frac{2}{5}$
